@@ -43,6 +43,7 @@ The Forensic Analysis of the given image file is divided into the following sect
 * Manufacturer name = **Dark Bay Ltd.**, Product name = **Hacker's Handbook**
 
 
+
 ## Detailed Analysis of the Rootkit
 
 The rootkit extracts to /last folder, which has total 23 files, out of which 13 are executables. The follow-ing is a list of the executables:
